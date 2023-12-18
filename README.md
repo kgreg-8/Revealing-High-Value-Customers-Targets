@@ -2,5 +2,5 @@
 KPMG Data Analytics Virtual Internship
 
 <p align="left">
-  <img src="" width="800" title="Customer Insights Dashboard">
+  <img src="Customer_Insights_Dashboard.png" width="800" title="Customer Insights Dashboard">
 </p>
