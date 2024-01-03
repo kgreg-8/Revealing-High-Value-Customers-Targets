@@ -6,4 +6,4 @@ KPMG Data Analytics Virtual Internship
 * Link to dashboard on Tableau Public: https://public.tableau.com/views/CustomerInsightsDashboard_KPMGVirtualInternship/CustomerInsights?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
-<a href="[https://www.w3schools.com](https://public.tableau.com/views/CustomerInsightsDashboard_KPMGVirtualInternship/CustomerInsights?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/CustomerInsightsDashboard_KPMGVirtualInternship/CustomerInsights?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank">Interact with the Dashboard on Tableau Public!</a> 
+<a href="https://public.tableau.com/views/CustomerInsightsDashboard_KPMGVirtualInternship/CustomerInsights?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" target="_blank">Interact with the Dashboard on Tableau Public!</a> 
