@@ -36,6 +36,6 @@ Hence, it is recommended to encourage customers to buy products from the WeareA2
 
 **Ancillary Notes:**
 - These attributes were not included in the dashboard, nor deemed valuable due to approximate 50/50 splits or a lack of useful insights able to be gleaned:
--- Gender
--- Past Bike Related 
--- Car Ownership
+>- Gender
+>- Past Bike Related 
+>- Car Ownership
